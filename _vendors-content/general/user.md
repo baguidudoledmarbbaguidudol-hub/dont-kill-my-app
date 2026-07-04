@@ -1,4 +1,4 @@
----
+pubg---
 manufacturer:
     - general
 ---
